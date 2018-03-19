@@ -1,5 +1,5 @@
 ## Onboarding BIG-IP ##
-onboarding: "yes" #Options: yes/no
+onboarding: "no" #Options: yes/no
 banner_text: "---Standalone BIG-IP Phy UnManaged ---"
 
 hostname: 'bigip.local'
